@@ -7,7 +7,7 @@ package factorydesignpatternexample;
 
 /**
  *
- * @author user
+ * @author  Mahmoud ali
  */
 public class FactoryDesignPattern {
    public static final int BEEF_ID=1;
